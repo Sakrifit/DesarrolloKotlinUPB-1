@@ -10,4 +10,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="purple_man">#842593</color>
+    <color name="favourite_color">#1300EB</color>
 </resources>
