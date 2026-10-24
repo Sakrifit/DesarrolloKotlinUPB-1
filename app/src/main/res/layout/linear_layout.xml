@@ -16,7 +16,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pacto Historico"
+        android:text="VIVA EL Pacto Historico"
         android:background="@color/teal_200"
         android:textColor="@color/black"
         android:layout_marginBottom="16dp"/>
